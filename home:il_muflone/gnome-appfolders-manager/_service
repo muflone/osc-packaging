@@ -1,0 +1,13 @@
+<services>
+  <service name="download_url">
+    <param name="protocol">https</param>
+    <param name="host">github.com</param>
+    <param name="path">/muflone/gnome-appfolders-manager/archive/0.3.1.tar.gz</param>
+    <param name="filename">gnome-appfolders-manager-0.3.1.tar.gz</param>
+  </service>
+  <service name="verify_file">
+    <param name="file">_service:download_url:gnome-appfolders-manager-0.3.1.tar.gz</param>
+    <param name="verifier">sha256</param>
+    <param name="checksum">b0a70470f69cdba5cf35cb88fd2655bcef7eaae6308079b6e69b243fbf7d7630</param>
+  </service>
+</services>
