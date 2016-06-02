@@ -1,0 +1,6 @@
+<package name="gnome-appfolders-manager" project="home:il_muflone">
+  <title>GNOME App Folders Manager</title>
+  <description>Create new App Folders for GNOME Shell</description>
+  <url>http://www.muflone.com/gnome-appfolders-manager/</url>
+</package>
+
