@@ -1,0 +1,29 @@
+Source: gnome-appfolders-manager
+Section: gnome
+Priority: optional
+Maintainer: Fabio Castelli <muflone@vbsimple.net>
+Build-Depends: debhelper (>= 9),
+               intltool,
+               python,
+               python-gi,
+               python-xdg,
+               gir1.2-glib-2.0,
+               gir1.2-gtk-3.0,
+               xvfb,
+               xauth
+X-Python-Version: >= 2.6
+Standards-Version: 3.9.8
+Homepage: http://www.muflone.com/gnome-appfolders-manager/
+
+Package: gnome-appfolders-manager
+Architecture: all
+Depends: python-gi,
+         python-xdg,
+         gir1.2-glib-2.0,
+         gir1.2-gtk-3.0,
+         dbus-x11,
+         ${misc:Depends},
+         ${python:Depends}
+Description: Manage GNOME Shell applications folders.
+ A free GTK+ application to create and edit applications folders (AppFolders)
+ for GNOME Shell.

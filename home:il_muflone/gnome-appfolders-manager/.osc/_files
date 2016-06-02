@@ -1,9 +1,11 @@
-<directory name="gnome-appfolders-manager" rev="3" srcmd5="d37657b0a543befa34964e4c9b50e28f" vrev="3">
-  <serviceinfo code="succeeded" xsrcmd5="10ce7155e09499d548561757eab170bd" />
+<directory name="gnome-appfolders-manager" rev="5" srcmd5="2e65bea13cd43a149f289fcdb1b83504" vrev="5">
+  <serviceinfo code="succeeded" xsrcmd5="c59bf8fa64f0343e85003799999482c9" />
   <entry md5="949932b1eb2f55bcdb6f931e01cb3640" mtime="1464731007" name="PKGBUILD" size="656" />
   <entry md5="91b6784a3cb31eae883fe18cc6597bc3" mtime="1464731007" name="_service" size="587" />
   <entry md5="4879052ed4e8c9c7490b0d28a68113ad" mtime="1464826591" name="debian.changelog" size="160" />
   <entry md5="7c5aba41f53293b712fd86d08ed5b36e" mtime="1464828068" name="debian.compat" size="2" />
+  <entry md5="de5257f94c091a1c43ea5f9534ff9d7b" mtime="1464911096" name="gnome-appfolders-manager-Debian_7.0.dsc" size="658" />
+  <entry md5="0b092fe2384ead4e523114c1010ce4bd" mtime="1464910899" name="gnome-appfolders-manager-Debian_7.0.tar.gz" size="717" />
   <entry md5="071a151eef0277da89808df181dd5f34" mtime="1464910589" name="gnome-appfolders-manager-Debian_8.0.dsc" size="645" />
   <entry md5="6d87c4d1587c1918920517c799d8ebc8" mtime="1464910590" name="gnome-appfolders-manager-Debian_8.0.tar.gz" size="691" />
 </directory>
